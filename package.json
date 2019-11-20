@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Integer to signed/unsigned binary converter.",
   "main": "index.js",
+  "repository": "github:ofarukcaki/int-to-binary",
   "author": {
     "name": "Faruk Caki",
     "email": "contact@ofarukcaki.com",
