@@ -1,6 +1,6 @@
 {
   "name": "int-to-binary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integer to signed/unsigned binary converter.",
   "main": "index.js",
   "author": {
