@@ -1,0 +1,8 @@
+{
+  "name": "int-to-binary",
+  "version": "1.0.0",
+  "description": "Integer to signed/unsigned binary converter.",
+  "main": "index.js",
+  "author": "O.Faruk Caki",
+  "license": "MIT"
+}
