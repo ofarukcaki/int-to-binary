@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description": "Integer to signed/unsigned binary converter.",
   "main": "index.js",
-  "author": "O.Faruk Caki",
-  "license": "MIT"
+  "author": {
+    "name": "Faruk Caki",
+    "email": "contact@ofarukcaki.com",
+    "url": "https://ofarukcaki.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "integer",
+    "number",
+    "binary",
+    "converter",
+    "unsigned",
+    "signed"
+  ]
 }
